@@ -1,0 +1,16 @@
+{
+  "name": "downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "Leandro Augusto Moreira Pinto",
+  "license": "ISC",
+  "dependencies": {
+    "combined-stream": "^1.0.8",
+    "express": "^4.17.1"
+  }
+}
